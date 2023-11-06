@@ -1,1 +1,4 @@
-Flask>=2.0,<=2.1.1
+- name: Upgrade pip
+  run: pip install --upgrade pip
+- name: Install dependencies
+  run: pip install -r requirements.txt
