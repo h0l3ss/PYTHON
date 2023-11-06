@@ -4,7 +4,7 @@ from dash import html, dcc
 import plotly.graph_objs as go
 import dash_bootstrap_components as dbc
 
-# Cria uma nova aplicação Flask
+# Cria uma nova aplicação Flask 
 server = Flask(__name__)
 
 # Cria uma nova aplicação Dash e usa o servidor Flask como o servidor por trás do Dash
