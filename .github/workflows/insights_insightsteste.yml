@@ -64,4 +64,4 @@ jobs:
         with:
           app-name: 'insightsteste'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9140C485B99640F89DBE814BAC35B622 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_293FB1C14E8949398989DA912F23CFB3 }}
