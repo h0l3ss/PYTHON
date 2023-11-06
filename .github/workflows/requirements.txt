@@ -1,2 +1,1 @@
-- name: Install dependencies
-  run: pip install -r .github/workflows/requirements.txt
+pip install --upgrade pip
